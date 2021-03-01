@@ -6,4 +6,4 @@ Ce projet est un projet "One-Page" pour une association fictive d'agriculteurs. 
 ## Auteurs
 
 * Yan COSTODE alias [@NoiderN](https://github.com/NoiderN)
-* Rémi de Pellegrin 
+* Rémi de Pellegrin alias [@remi-depellegrin](https://github.com/remi-depellegrin)
